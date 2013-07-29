@@ -1,6 +1,7 @@
 <article>
 
-<p><H1>Good Old Files - Obsolete & Hidden File Enumerator </H1></p>
+<h1>Good Old Files</H1>
+<h2>Obsolete & Hidden File Enumerator</h2>
 
 <p>Good Old Files (GoF) is an extension to the <a href="http://code.google.com/p/zaproxy/" target="_blank">OWASP Zed Attack Proxy (ZAP)</a> project designed to enhance the detection of obsolete and hidden files.<br>
 It relies on the built-in dirbuster implementation in ZAP.</p>
@@ -39,18 +40,22 @@ GoF is developed and maintained by Michal Goldstein.
 <tr><td><b><u>Obsolete File Detection Features</u></b>
 </td></tr>
 <tr><td valign="top">
+<ul>
 <li><I>Customize Enumerated Extensions</I></li>
 <li><I>Incremental File Names</I></li>
 <li><I>Suffix and Postfix</I></li>
 <li><I>Replace and Append to Extension</I></li>
+</ul>
 </td></tr>
 
 <tr><td><b><u>Additional Features</u></b>
 </td></tr>
 <tr><td valign="top">
+<ul>
 <li><I>Ignore Extensions</I></li>
 <li><I>Support Case Sensitive / Case Insensitive Files and Extensions</I></li>
 <li><I>Define the Number of Threads</I></li>
+</ul>
 </td></tr>
 </table>
 </p>
